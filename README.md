@@ -38,15 +38,3 @@ Flow Card?
 Bags Checked
 Meal Type
 
-Output 1
-
-Rows: 1883 (1884 including the header)
-
-Output 2
-
-
-Rows: 1895 (1896 including the header)
-
-You can download the output from here.
-
-After you finish the challenge make sure to fill in the participation tracker, then share your solution on Twitter using #PreppinData and tagging @Datajedininja, @JennyMartinDS14 & @TomProwse1
