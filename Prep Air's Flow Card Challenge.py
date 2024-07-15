@@ -29,7 +29,7 @@
 
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\ALVIN KAYI\Desktop\python_data_analysis\projects\Prep Air's Flow Card\Data\PD 2024 Wk 1 Input.csv")
+df = pd.read_csv(r"PD 2024 Wk 1 Input.csv")
 df
 
 df.info()
